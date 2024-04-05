@@ -1,2 +1,0 @@
-jordanatanassov
-Reagan Gary (rbgary)
