@@ -1,0 +1,15 @@
+2 Similarities
+    Code should be reviewed easilly
+    Time is of the essence, reviews should happen quickly and be responded to effectively
+2 Differences
+    Microsoft uses emoji coding to ask questions and responses.
+    Yelp reccomends a primary reviewer where microsoft has no mention of it.
+
+2. Good Code review
+    https://www.quora.com/What-is-an-example-of-a-good-code-review-comment
+    This Quora code review example uses suggestions rather than trying to change the content,
+    and accurately depicts the problem with the commit itself.
+3. Bad Code review
+    https://www.reddit.com/r/github/comments/j518bh/how_to_give_a_code_review_could_you_please_also/
+    On this reddit thread, towards the bottom, there is an example of a bad review that lacks the specific
+    granularity to identify a problem, and does not suggest any alternatives, just saying that __ line is bad
